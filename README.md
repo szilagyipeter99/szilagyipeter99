@@ -1,3 +1,3 @@
 👋 Hi, I'm Peti.
 
-I graduated in 2023 as a Mechatronics Engineer (MSc) and currently doing my PhD in the topic of ML along with microscope automation and image processing. I also teach Electrotechnics, Electronics, Image processing and Embedded systems at the University of Debrecen.
+I hold an MSc in Mechatronics Engineering, graduated in 2023, and am currently pursuing a PhD with a focus on machine learning, microscope automation, and image processing. In addition to my research, I teach courses in Electrotechnics, Electronics, Image Processing, and Embedded Systems at the University of Debrecen.
